@@ -2,6 +2,7 @@
    This program uses code from other
    module file(s).
    main4.c  fixed this comment
+   second edit to test git diff
 */
 
 #include <stdio.h>
