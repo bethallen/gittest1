@@ -2,7 +2,7 @@
 #
 # Usage:
 # 
-#
+# TESTING - Git Merge with 2 different versions of a file.
 #######################################################
 # I made a syntax error in class with the gcc command
 #
